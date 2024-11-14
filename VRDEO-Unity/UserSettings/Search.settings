@@ -1,0 +1,94 @@
+trackSelection = true
+refreshSearchWindowsInPlayMode = false
+fetchPreview = true
+defaultFlags = 0
+keepOpen = false
+queryFolder = "Assets"
+onBoardingDoNotAskAgain = true
+showPackageIndexes = false
+showStatusBar = false
+scopes = {
+	"last_search.6DF93126" = "h: layer=<$layer:9, EyeTrack2D$>"
+	"OpenInspectorPreview.6DF93126" = "0"
+	"currentGroup.6DF93126" = null
+}
+providers = {
+	adb = {
+		active = false
+		priority = 2500
+		defaultAction = null
+	}
+	log = {
+		active = false
+		priority = 210
+		defaultAction = null
+	}
+	performance = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	store = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	profilermarkers = {
+		active = false
+		priority = 100
+		defaultAction = null
+	}
+	scene = {
+		active = true
+		priority = 50
+		defaultAction = null
+	}
+	find = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	packages = {
+		active = true
+		priority = 90
+		defaultAction = null
+	}
+	asset = {
+		active = true
+		priority = 25
+		defaultAction = null
+	}
+	presets_provider = {
+		active = false
+		priority = -10
+		defaultAction = null
+	}
+}
+objectSelectors = {
+}
+recentSearches = [
+	"h: layer=<$layer:9, EyeTrack2D$>"
+	"h:"
+	"h: EyeTrack2D"
+	"h: layer"
+	"h: ref=\"Assets/Scripts/Pdf/PdfManager.cs\""
+	"h: ref=\"Packages/edu.uga.engr.vel.velutils/Runtime/Input/InputMan.cs\""
+	""
+	"h: ref=<$object:none$>"
+	"ref:InputM"
+	"Referencing As"
+	"Refernecin"
+]
+searchItemFavorites = [
+]
+savedSearchesSortOrder = 0
+showSavedSearchPanel = true
+hideTabs = false
+expandedQueries = [
+]
+queryBuilder = true
+ignoredProperties = "id;name;classname;imagecontentshash"
+helperWidgetCurrentArea = "h:"
+disabledIndexers = ""
+minIndexVariations = 2
+findProviderIndexHelper = true
