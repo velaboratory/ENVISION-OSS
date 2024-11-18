@@ -12,3 +12,5 @@ authors:
     family-names: Bowers
     orcid: 'https://orcid.org/0000-0001-6468-4892'
     email: bbbowers3@gmail.com
+repository-code: 'https://github.com/velaboratory/ENVISION-OSS'
+license: MIT
